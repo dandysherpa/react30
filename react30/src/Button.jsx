@@ -12,7 +12,7 @@ Button.defaultProps = {
     name : "Default"
 }
 Button.propTypes = {
-  name : PropTypes.string//.isRequired //you cna also use this prop in app.jsx but it gets messy
+  name : PropTypes.string//.isRequired //you can also use this prop in app.jsx but it gets messy
 }
 
 export default Button
